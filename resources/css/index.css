@@ -1,0 +1,27 @@
+.banner {
+  background-color: antiquewhite;
+  color: black;
+  text-align: center;
+  margin-top: 75px;
+  padding: 100px 0;
+}
+
+#banner-txt {
+  margin-bottom: 30px;
+}
+
+#btn-banner {
+  border: 1px solid black;
+  padding: 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: black;
+}
+
+#btn-banner:hover {
+  background-color: blue;
+  color: azure;
+}
+
+
+
